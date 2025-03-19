@@ -75,9 +75,9 @@ Cependant, cette réduction des performances est aujourd'hui plus faible qu'autr
 
 ## Sources :
 
-https://en.wikipedia.org/wiki/Data_structure_alignment
-https://stackoverflow.com/questions/4306186/structure-padding-and-packing
-http://www.catb.org/esr/structure-packing/
-https://stackoverflow.com/questions/41251388/why-processor-read-only-aligned-addresses
-https://www.reddit.com/r/osdev/comments/wwnl54/why_are_cache_line_accesses_aligned/
-https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/
+https://en.wikipedia.org/wiki/Data_structure_alignment  
+https://stackoverflow.com/questions/4306186/structure-padding-and-packing  
+http://www.catb.org/esr/structure-packing/  
+https://stackoverflow.com/questions/41251388/why-processor-read-only-aligned-addresses  
+https://www.reddit.com/r/osdev/comments/wwnl54/why_are_cache_line_accesses_aligned/  
+https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/  
