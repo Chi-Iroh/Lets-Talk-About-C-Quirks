@@ -15,6 +15,10 @@ I hope you'll learn something new today !
 Their respective `doc` subfolder contains a document I wrote about memory alignment, as I didn't dive too much into the details in the slides (the document is also linked in the relevant slide).  
 I read many sources and each time, the alignment thing wasn't entirely explained, so I wanted to write somewhere how it works from the beginning.  
 
+Also on Google Slides :
+- [In English](https://docs.google.com/presentation/d/1oQpbV9t1fhIH8WtUcaE4djnI_kzWfA1dMC4ziE1rDR4/edit?usp=sharing)
+- [In French](https://docs.google.com/presentation/d/1WNJ9Ap3TPxLQFMK94vnAPWC0X2H8_fC7sN8TZ_IrjdI/edit?usp=sharing)
+
 # Parlons des Bizarreries du C !
 
 J'aime beaucoup le langage C et j'ai passé beaucoup de temps cette année à me renseigner à propos de codes étranges en C, et surtout comprendre pourquoi et comment ils fonctionnent.  
@@ -31,3 +35,7 @@ J'espère que vous apprendrez quelque chose aujourd'hui !
 Les dossiers `en` et `fr` contiennent respectivement les ressources en anglais et en français.  
 Leur sous-dossier respectif `doc` contient un document à propos de l'alignement en mémoire, car je n'ai pas voulu entrer trop dans les détails sur le diaporama (un lien vers ce document se trouve sur la diapositive concernée).  
 J'ai lu un certain nombre de sources, et à chaque fois l'alignement n'était expliqué que partiellement, j'ai donc voulu compiler toutes ces informations dans un seul document, pour expliquer comment l'alignement fonctionne, de bout-en-bout.  
+
+Aussi sur Google Slides :
+- [En anglais](https://docs.google.com/presentation/d/1oQpbV9t1fhIH8WtUcaE4djnI_kzWfA1dMC4ziE1rDR4/edit?usp=sharing)
+- [En français](https://docs.google.com/presentation/d/1WNJ9Ap3TPxLQFMK94vnAPWC0X2H8_fC7sN8TZ_IrjdI/edit?usp=sharing)
