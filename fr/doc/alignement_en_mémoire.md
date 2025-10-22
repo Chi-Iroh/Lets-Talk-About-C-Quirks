@@ -56,7 +56,7 @@ Pour une donnée de plusieurs octets (en C, souvent tout sauf booléen et `char`
 Quand un programme demande d'accéder à une donnée, si elle déjà dans le cache alors tout va bien et le processeur se contente de la prendre. Sinon, on doit aller lire la RAM.  
 Pour lire la RAM, on utilise des bus qui permettent de transmettre les informations nécessaires aux opérations sur la mémoire.  
 Ils sont au nombre de 3 :  
-1. Bus de commande : on y dépose un valeur selon s'il faut lire ou écrire des données
+1. Bus de commande : on y dépose une valeur selon s'il faut lire ou écrire des données
 2. Bus d'adresse : on y dépose l'adresse à laquelle on doit effectuer la lecture/écriture
 3. Bus de donnée : on y lit la donnée pour une lecture / on y dépose la donnée pour une écriture
 
