@@ -45,7 +45,7 @@ Ensuite vient le char, mais puisqu'il a un alignement sur un seul octet, alors n
 struct b b_array[2];
 ```
 Ici on a un tableau de plusieurs structures `b`, donc si la structure fait 5 octets, pour `b[0]` tout va bien, elle commence à une adresse alignée sur 4 octets, et on vient de montrer que le `char` et l'`int` seront alignés correctement.  
-Par contre, `b[0]` commence à une adresse non alignée sur 4 octets (on ajoute 5 à un multiple de 4, ça donne un multiple de 4 + 1 octet), donc le premier champ (`int`) sera mal aligné !  
+Par contre, `b[1]` commence à une adresse non alignée sur 4 octets (on ajoute 5 à un multiple de 4, ça donne un multiple de 4 + 1 octet), donc le premier champ (`int`) sera mal aligné !  
 On a donc un padding de 3 octets (structure de 5 octets, il manque 3 octets pour avoir 8, un multiple de 4) pour que la structure ait une taille multiple de 4, au moins si on a un tableau par exemple, on n'a plus de problèmes d'alignement.  
 
 ## Pourquoi une donnée doit être alignée ?
