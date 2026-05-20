@@ -10,12 +10,14 @@ Pay attention to the slides, I linked plenty of resources and across the slides.
 Also, for each feature, the relevant C standard section appears on the slide for those who want to read the standard.  
 I hope you'll learn something new today !  
 
-## Folders
+## Folders & Files
 `en` and `fr` folders respectively contain English and French material.  
 Their respective `doc` subfolder contains a document I wrote about memory alignment, as I didn't dive too much into the details in the slides (the document is also linked in the relevant slide).  
 I read many sources and each time, the alignment thing wasn't entirely explained, so I wanted to write somewhere how it works from the beginning.  
 
 `C-standards` folder contains all the C standards linked at the end of the slideshow, as links rot with time.  
+
+`ArgvAnimation.mp4` is the video showing how does the code golf works with argv, it was made using [manim](https://github.com/3b1b/manim) in Python, see the [argv anim.py script](./argv%20anim.py) (partially generated with ChatGPT AI).  
 
 Also on Google Slides :
 - [In English](https://docs.google.com/presentation/d/1oQpbV9t1fhIH8WtUcaE4djnI_kzWfA1dMC4ziE1rDR4/edit?usp=sharing)
@@ -33,12 +35,14 @@ Lisez les diapositives avec attention, il y a beaucoup de liens.
 Aussi, pour chaque fonctionnalité, le numéro de la section concernée du standard C est écrit, pour ceux qui veulent approfondir et lire le standard.  
 J'espère que vous apprendrez quelque chose aujourd'hui !  
 
-## Dossiers
+## Dossiers & Fichiers
 Les dossiers `en` et `fr` contiennent respectivement les ressources en anglais et en français.  
 Leur sous-dossier respectif `doc` contient un document à propos de l'alignement en mémoire, car je n'ai pas voulu entrer trop dans les détails sur le diaporama (un lien vers ce document se trouve sur la diapositive concernée).  
 J'ai lu un certain nombre de sources, et à chaque fois l'alignement n'était expliqué que partiellement, j'ai donc voulu compiler toutes ces informations dans un seul document, pour expliquer comment l'alignement fonctionne, de bout-en-bout.  
 
 Le dossier `C-standards` contient tous les standards du C mentionnés à la fin de la présentation, puisque les liens finissent par ne plus fonctionner avec le temps.  
+
+`ArgvAnimation.mp4` est la vidéo qui montre comment le code golf utilise argv, elle a été créée avec [manim](https://github.com/3b1b/manim) en Python, grâce au [script argv anim.py](./argv%20anim.py) (partiellement généré par l'IA ChatGPT).  
 
 Aussi sur Google Slides :
 - [En anglais](https://docs.google.com/presentation/d/1oQpbV9t1fhIH8WtUcaE4djnI_kzWfA1dMC4ziE1rDR4/edit?usp=sharing)
